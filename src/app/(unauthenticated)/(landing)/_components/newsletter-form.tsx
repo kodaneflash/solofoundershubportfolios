@@ -81,7 +81,10 @@ export default function NewsletterForm() {
               <Loader2 className="animate-spin h-4 w-4" />
             </div>
           ) : (
-            <span>Join our newsletter</span>
+            <span>
+              Join 11,000+ elite entrepreneurs getting curated startup ideas in
+              million dollar niches. Launch your empire this weekend.
+            </span>
           )}
         </Button>
       </form>
